@@ -1,0 +1,2 @@
+# DVD-Store-Model
+A C++ program that manages DVD rental in a video rental store. Create an abstract data type that represents a DVD in this store. Consider all the data and operations that may be necessary for the DVD type to work well within a rental management system. Include a print() member function that displays all the information about the DVD. Test your data type by creating an array of ten DVD instances and filling them using information read from a test input file that you create. Display the DVD information.
